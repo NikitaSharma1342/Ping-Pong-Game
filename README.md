@@ -1,6 +1,16 @@
 # Ping-Pong-Game
 
-Ping Pong Game is created with the help of concepts of Oops, Turtle library and time module.
+Ping Pong Game is created with the help of concepts of Oops some libraries and modules.
+
+# Table of Contents
+
+* Library and module
+* How to run
+* Screenshots
+
+# Library and module
+* Turtle
+* Time
 
 # How to run
 
